@@ -4,7 +4,7 @@ description: A demo blog
 email: david.hirko@carefusion.com
 github_username:  davidhirko
 baseurl:
-url: https://githubtraining-cicd-demo.herokuapp.com
+url: https://cicd-demoX.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
